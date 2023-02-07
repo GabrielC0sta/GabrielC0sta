@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel__c0sta/)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielC0sta&show_icons=true&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielC0sta&layout=dark)](https://github.com/GabrielC0sta/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
 
 <div style=display:"inline_block"><br/>
