@@ -2,6 +2,7 @@
 
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielC0sta&show_icons=true&theme=dark)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielc0sta&layout=compact&langs_count=7&theme=dark"/>
 
 ## Tecnologias que eu uso no meu dia
 
