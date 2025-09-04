@@ -14,11 +14,18 @@
 
 ---
 
-## 🚀 Tecnologias que eu uso
+## 🚀 Tecnologias que eu uso no meu dia a dia  
 
-<div align="center"><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<div align="center" style="display: inline_block"><br/>
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="PowerBI" height="50" width="50" src="https://img.icons8.com/color/480/power-bi.png"/>
 </div>
 
 ---
@@ -27,6 +34,6 @@
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-da-silva-costa-83a507265/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
