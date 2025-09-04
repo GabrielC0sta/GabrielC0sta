@@ -34,6 +34,6 @@
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-da-silva-costa-83a507265/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png">
   </a>
 </div>
